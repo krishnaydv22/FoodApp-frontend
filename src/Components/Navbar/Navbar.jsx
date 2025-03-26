@@ -17,9 +17,8 @@ function Navbar() {
         navigate("/my-profile")
       }
       else{
-        console.log("test");
         
-        navigate("/admin/restaurants")
+        navigate("/admin/restaurant")
 
       }
     }
