@@ -3,7 +3,6 @@ import React from 'react'
 import DeleteIcon from '@mui/icons-material/Delete';
 
 const EventCard = ({event}) => {
-    console.log(event);
     
   return (
     <div>

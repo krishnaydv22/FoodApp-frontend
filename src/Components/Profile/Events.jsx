@@ -13,7 +13,6 @@ const Events = () => {
       dispatch(getAllEventsApi({jwt}));
     },[])
 
-    console.log(restaurant);
     
 
     
