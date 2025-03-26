@@ -3,7 +3,7 @@
 import React, { useEffect } from 'react'
 import Navbar from './Components/Navbar/Navbar'
 import { ThemeProvider } from '@emotion/react'
-import { darkTheme } from './Theme/darkTheme'
+import { darkTheme } from './Theme/DarkTheme'
 import { CssBaseline } from '@mui/material'
 import Home from './Components/Home/Home'
 import RestaurantDetails from './Components/Restaurant/RestaurantDetails'
